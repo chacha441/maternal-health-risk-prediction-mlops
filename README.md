@@ -38,11 +38,34 @@ This project predicts maternal health risk levels using clinical indicators such
 5. Model Training
 6. Model Evaluation
 7. Model Saving
+## Power BI Dashboard
 
+This interactive dashboard monitors maternal health risk using machine learning predictions.
+
+### Dashboard Features
+
+- Total Patients KPI
+- High Risk Patients
+- Mid Risk Patients
+- Low Risk Patients
+- Average Blood Sugar
+- Average Heart Rate
+- Average Systolic BP
+- Interactive slicers
+- Key Insights
+
+### Technologies
+
+Python
+Pandas
+Scikit-learn
+Power BI
+GitHub
 ## Project Files
 - Maternal_Health_Risk_Dataset.csv
 - maternal_health_project.py
 - maternal_health_model.pkl
+- maternal_health_risk.dashboard
 
 ## Author
 Chacha Paul Nyaboke
